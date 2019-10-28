@@ -1,3 +1,9 @@
+# Logistic mapping
+
+Visualisation for a CodeWars Kata, [Logistic Map](https://www.codewars.com/kata/5779624bae28070489000146).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
